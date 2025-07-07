@@ -43,7 +43,7 @@ function page2animation(){
     scrollTrigger:{
         trigger:".section2",
         scroller:"body",
-        start:"top 40%",
+        start:"top 130%",
         end:"top 0",
         scrub:2,
     }
